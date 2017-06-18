@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: grey; 
+}
+
+* {
+  /* border: solid 1px  red; */
+}
+
+.edit {
+  float: left;
+  width: 25%;
+}
+
+.preview {
+  float: left;
+  width: 75%;
+}
+
